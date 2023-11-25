@@ -1,0 +1,5 @@
+conda create --name myenviron
+conda install -c anacoda flask
+conda install -c conda-forge
+conda activate myenviron
+python Drive.py
